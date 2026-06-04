@@ -42,7 +42,8 @@
     "publish": {
       "provider": "github",
       "owner": "Aryzonna",
-      "repo": "haxys-core-windows-app"
+      "repo": "haxys-core-windows-app",
+      "releaseType": "release"
     }
   },
   "dependencies": {
